@@ -17,11 +17,14 @@ Repositori ini dibuat untuk membantu siapa pun yang sedang mempersiapkan ujian s
 - `tips-and-tricks.md` – Tips menghadapi ujian online Pearson Vue dan belajar efektif
 
 ## 🎓 Credentials
-🔗[Verifikasi Sertifikat](https://learn.microsoft.com/en-us/users/retnoagussetiawan/credentials/49c03b05d89dcc30) 
 
 ![Sertifikat AI-900](Cert-MCF-AI-900.jpg)
 
-## The End!
+<a href="https://learn.microsoft.com/en-us/users/retnoagussetiawan/credentials/49c03b05d89dcc30" target="_blank">
+  <img src="https://img.shields.io/badge/Verifikasi-blue?style=for-the-badge&logo=microsoft" alt="Verifikasi"/>
+</a>
+
+## Bagian Akhir!
 Selamat mempersiapkan Ujian AI-900!
 
 Jika Anda merasa repositori ini bermanfaat, silakan tinggalkan bintang.
