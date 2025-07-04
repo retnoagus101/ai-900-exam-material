@@ -1,5 +1,5 @@
 
-🖥️ Tips Ujian Online via Pearson VUE (OnVUE)
+## 🖥️ Tips Ujian Online via Pearson VUE (OnVUE)
 Jika kamu memilih ujian AI-900 secara online dari rumah melalui Pearson VUE, berikut beberapa tips penting agar pengalaman ujianmu lancar:
 
 ✅ Sebelum Ujian
@@ -25,6 +25,10 @@ Jika kamu memilih ujian AI-900 secara online dari rumah melalui Pearson VUE, ber
 
  💻 Snapshot Tes Sistem On-Vue
 
-![OnVue Snapshot](OnVue snapshot.pdf) 
+![OnVue Snapshot](Snapshot/OnVue%20snapshot_1.jpg)
+![OnVue Snapshot](Snapshot/OnVue%20snapshot_2.jpg)
+![OnVue Snapshot](Snapshot/OnVue%20snapshot_3.jpg)
+![OnVue Snapshot](Snapshot/OnVue%20snapshot_4.jpg)
+
 
 
