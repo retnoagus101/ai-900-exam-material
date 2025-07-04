@@ -1,13 +1,12 @@
-### ❓ Latihan Soal
+### ❓ Latihan Soal 💡💡💡
 
 When using the Azure AI Service for Language, what should you use to provide further information online about entities extracted from a text?  
 A. entity linking  
 B. key phrase extraction  
 C. named entity recognition  
 D. text translation  
-
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. entity linking 
 </details>
 
@@ -18,7 +17,7 @@ C. speech synthesis
 D. speech translation  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. speech recognition  
 </details>
 
@@ -30,7 +29,7 @@ C. an Azure container instance
 D. an Azure Kubernetes Service (AKS) cluster  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. a job   
 </details>
 
@@ -42,7 +41,7 @@ C. Create a pipeline.
 D. Deploy a service.  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. Create a pipeline.
 </details>
 
@@ -53,7 +52,7 @@ C. Linear Regression
 D. Select Columns in Dataset  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. Linear Regression
 </details>
 
@@ -64,7 +63,7 @@ C. optical character recognition (OCR)
 D. object detection  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. object detection
 </details>
 
@@ -75,7 +74,7 @@ C. object detection
 D. semantic segmentation  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. semantic segmentation  
 </details>
 
@@ -86,7 +85,7 @@ C. Azure AI Vision
 D. Azure OpenAI  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. Azure OpenAI  
 </details>
 
@@ -99,7 +98,7 @@ C. conversational AI
 D. data mining  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. data mining   
 </details>
 
@@ -110,7 +109,7 @@ C. named entity recognition
 D. Personally Identifiable Information (PII) detection  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. named entity recognition
 </details>
 
@@ -121,7 +120,7 @@ C. language detection
 D. sentiment analysis  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. entity recognition
 </details>
 
@@ -132,7 +131,7 @@ C. speaker recognition
 D. text translation  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. model training with a dictionary 
 </details>
 
@@ -143,7 +142,7 @@ C. optical character recognition (OCR)
 D. semantic segmentation  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. optical character recognition (OCR)  
 </details>
 
@@ -155,7 +154,7 @@ C. identifying wildlife in an image
 D. translating speech to text  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. digitizing medical records  
 </details>
 
@@ -166,7 +165,7 @@ C. face landmarks
 D. face rectangle  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. face attributes  
 </details>
 
@@ -177,7 +176,7 @@ C. Azure AI Face
 D. Azure AI Language  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. Azure AI Custom Vision  
 </details>
 
@@ -188,7 +187,7 @@ C. Azure AI Vision
 D. Azure AI Translator  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. Azure AI Bot Service  
 </details>
 
@@ -199,7 +198,7 @@ C. object detection
 D. semantic segmentation  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. knowledge mining  
 </details>
 
@@ -210,7 +209,7 @@ C. Question answering models
 D. RESTful API services  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. Copilots  
 </details>
 
@@ -221,7 +220,7 @@ C. safety system
 D. user experience  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. safety system  
 </details>
 
@@ -233,7 +232,7 @@ D. Machine learning
 E. Reinforcement learning  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. Generative AI  
 </details>
 
@@ -244,7 +243,7 @@ C. Mitigate potential harms.
 D. Operate the solution.  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. Identify potential harms.  
 </details>
 
@@ -256,7 +255,7 @@ D. GPT-4
 E. Whisper  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. DALL-E 
 </details>
 
@@ -267,7 +266,7 @@ C. System messages
 D. Tokenization  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. System messages 
 </details>
 
@@ -278,7 +277,7 @@ C. Machine learning
 D. System messages  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. Embeddings  
 </details>
 
@@ -289,7 +288,7 @@ C. image generation
 D. image variations  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. image description
 </details>
 
@@ -301,7 +300,7 @@ C. multiclass classification
 D. regression  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. clustering  
 </details>
 
@@ -313,7 +312,7 @@ C. featurization
 D. regression  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. classification  
 </details>
 
@@ -324,7 +323,7 @@ C. regression
 D. supervised  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. clustering  
 </details>
 
@@ -336,7 +335,7 @@ C. logistic regression
 D. multiple linear regression  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. logistic regression  
 </details>
 
@@ -346,7 +345,7 @@ B. clustering
 D. unsupervised  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. regression  
 </details>
 
@@ -358,7 +357,7 @@ C. data transformation
 D. regression  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. classification  
 </details>
 
@@ -370,7 +369,7 @@ C. multiclass classification
 D. regression  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. regression  
 </details>
 
@@ -381,7 +380,7 @@ C. Labels are compared to the label values in a training dataset.
 D. The label is used to generate predictions for features, which are compared to the actual feature values.  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. Features are used to generate predictions for the label, which is compared to the actual label values.  
 </details>
 
@@ -392,7 +391,7 @@ C. use of randomly generated data with known label values to train a model
 D. use of randomly generated data with unknown label values to train a model  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. use of historical data with known label values to train a model  
 </details>
 
@@ -403,7 +402,7 @@ C. feature engineering
 D. summarizing the data  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. evaluating the trained model  
 </details>
 
@@ -414,7 +413,7 @@ C. split data into training and validation datasets
 D. summarize the data  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. split data into training and validation datasets  
 </details>
 
@@ -425,7 +424,7 @@ C. unknown feature and label values
 D. unknown feature values and known label values  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. known feature and label values  
 </details>
 
@@ -436,7 +435,7 @@ C. inclusiveness
 D. safety  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. fairness  
 </details>
 
@@ -448,7 +447,7 @@ D. transparency
 ANSWER: D
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. transparency  
 </details>
 
@@ -459,7 +458,7 @@ C. reliability and safety
 D. transparency  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. transparency  
 </details>
 
@@ -471,7 +470,7 @@ C. privacy
 D. transparency  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. fairness  
 </details>
 
@@ -483,7 +482,7 @@ C. reliability and safety
 D. transparency  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. reliability and safety  
 </details>
 
@@ -494,7 +493,7 @@ C. linear regression
 D. multiple linear regression  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. deep learning  
 </details>
 
@@ -505,7 +504,7 @@ C. object detection
 D. semantic segmentation  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. object detection  
 </details>
 
@@ -516,7 +515,7 @@ C. granting employee access to a secure building
 D. tracking livestock in a field  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. tracking livestock in a field  
 </details>
 
@@ -527,7 +526,7 @@ C. object detection
 D. optical character recognition (OCR)  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. object detection  
 </details>
 
@@ -538,7 +537,7 @@ C. detecting image types
 D. tagging  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. tagging  
 </details>
 
@@ -550,7 +549,7 @@ D. object detection
 ANSWER: C
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. image classification  
 </details>
 
@@ -561,7 +560,7 @@ C. object detection
 D. optical character recognition (OCR)  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. object detection  
 </details>
 
@@ -572,7 +571,7 @@ C. stemming
 D. vectorization  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. stemming  
 </details>
 
@@ -583,7 +582,7 @@ C. N-grams
 D. vectorization  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. vectorization  
 </details>
 
@@ -594,7 +593,7 @@ C. encoding words as numeric features
 D. removing stop words  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. removing stop words  
 </details>
 
@@ -605,7 +604,7 @@ C. NaN
 D. Unknown  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. NaN  
 </details>
 
@@ -616,7 +615,7 @@ C. question answering models
 D. text analysis  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. Azure AI Speech  
 </details>
 
