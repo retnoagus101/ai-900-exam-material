@@ -1,4 +1,4 @@
-### ❓ Latihan Soal
+### ❓ Latihan Soal 💡💡💡
 
 Which three data transformation modules are in the Azure Machine Learning designer?  
 Each correct answer presents a complete solution. (Select all that apply)  
@@ -9,8 +9,9 @@ D. Select Columns in Dataset
 E. Train Clustering  
 
 <details>
-  <summary>💡 Show Answer</summary>
-A. Clean Missing Data  
+  <summary>Show Answer</summary>
+A. Clean Missing Data
+  
 C. Normalize Data  
 D. Select Columns in Dataset  
 </details>
@@ -24,8 +25,9 @@ D. sentiment analysis
 E. spatial analysis  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. optical character recognition (OCR)  
+  
 E. spatial analysis  
 </details>
 
@@ -38,8 +40,9 @@ D. the Speech service
 E. the Translator service  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. the Speech service  
+  
 E. the Translator service
 </details>
 
@@ -52,8 +55,9 @@ D. Score
 E. Wikipedia URL  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. ISO 6391 Code  
+  
 C. Language Name  
 D. Score  
 </details>
@@ -68,8 +72,9 @@ E. Sentiment analysis
 ANSWER: C, D, E
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. Entity Linking  
+  
 D. Personally Identifiable Information (PII) detection  
 E. Sentiment analysis   
 </details>
@@ -83,8 +88,9 @@ D. people_
 E. people_group  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. celebrities   
+  
 C. landmarks    
 </details>
 
@@ -97,8 +103,9 @@ D. named entity recognition
 E. Azure AI Speech service  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. key phrase extraction  
+  
 D. named entity recognition    
 </details>
 
@@ -111,8 +118,9 @@ D. landmarks
 E. plants  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. celebrities  
+  
 D. landmarks     
 </details>
 
@@ -125,8 +133,9 @@ D. layout model
 E. read model  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. business card model  
+  
 C. invoice model  
 </details>
 
@@ -139,8 +148,9 @@ D. face verification
 E. find similar faces  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. face identification  
+  
 D. face verification 
 </details>
 
@@ -152,8 +162,9 @@ C. inclusiveness
 D. privacy and security  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. accountability  
+  
 D. privacy and security  
 </details>
 
@@ -167,8 +178,9 @@ D. weather temperature
 E. weekday or weekend  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. weather temperature  
+  
 E. weekday or weekend  
 </details>
 
@@ -181,8 +193,9 @@ D. gender
 E. payment history
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 C. ethnicity
+  
 D. gender 
 </details>
 
@@ -195,8 +208,9 @@ D. performing sentiment analysis on social media data
 E. translating text between different languages from product reviews  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 D. performing sentiment analysis on social media data  
+  
 E. translating text between different languages from product reviews  
 </details>
 
@@ -209,8 +223,9 @@ D. an image file
 E. manually entered data  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. a webpage  
+  
 C. an existing FAQ document 
 E. manually entered data  
 </details>
@@ -224,8 +239,9 @@ D. Synthesize speech.
 E. Understand natural language.  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 A. Create natural language.  
+  
 E. Understand natural language.  
 </details>
 
@@ -238,8 +254,9 @@ D. extracting RGB values from an image
 E. new image creation  
 
 <details>
-  <summary>💡 Show Answer</summary>
-B. creating variations of an image  
+  <summary>Show Answer</summary>
+B. creating variations of an image 
+  
 C. editing an image  
 E. new image creation  
 </details>
@@ -253,7 +270,8 @@ D. language
 E. pronunciation  
 
 <details>
-  <summary>💡 Show Answer</summary>
+  <summary>Show Answer</summary>
 B. conversational  
+  
 C. dictation    
 </details>
