@@ -14,3 +14,17 @@ Jika kamu memilih ujian AI-900 secara online dari rumah melalui Pearson VUE, ber
 - Ikuti instruksi proktor dengan tenang. Jangan melihat ke samping, berbicara, atau meninggalkan kursi.
 - Gunakan speaker, bukan headphone, karena headphone tidak diperbolehkan.
 - Jangan panik jika ada gangguan teknis—proktor akan membantumu melalui chat.
+
+ 
+ ⚠️ Catatan:
+ - Gunakan setup yang sama (laptop dan koneksi internet) pada saat tes sistem dengan setup pada saat ujian/exam berlangsung 
+ - Gunakan koneksi LAN/wifi dengan kecepatan minimal 10Mbps (upload/download), jika kurang dari itu kemungkinan besar tes sistem akan 'FAIL'
+ - Tutup semua aplikasi lain pada saat menjalankan exam
+ - Untuk bisa melakukan ujian, peserta harus melakukan tes sistem terlebih dahulu.
+ - Lingkungan setup ujian harus benar-benar clear dan tertutup. Ujian dengan proctor online on-vue memiliki rule yang sangat ketat, jika terlihat ada orang lain atau suara orang berbicara, proctor bisa saja langsung mengakhiri ujian, dan peserta dinyatakan "FAIL".
+
+ 💻 Snapshot Tes Sistem On-Vue
+
+![OnVue Snapshot](OnVue snapshot.pdf) 
+
+
